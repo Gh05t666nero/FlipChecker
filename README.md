@@ -1,0 +1,2 @@
+# FlipChecker
+Flip Account Checker
